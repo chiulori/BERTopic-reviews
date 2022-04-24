@@ -1,3 +1,3 @@
-# BERTopic - Topic Modeling Using App Reviews
+# Topic Modeling with BERTopic on App Reviews
 
 ## Overview
