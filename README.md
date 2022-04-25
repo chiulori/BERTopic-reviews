@@ -3,7 +3,7 @@
 Code example for topic modeling performed on Amazon Alexa product reviews using BERTopic. 
 
 ## Data
-The data can be found [here](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews). The dataset contains 3,150 customer reviews on the Amazon Alexa, Echo, and Firestick products.
+The data can be found on [Kaggle](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews). The dataset contains 3,150 customer reviews on the Amazon Alexa, Echo, and Firestick products.
 
 ## Huggingface Space
 Detailed overview and methodology can be found on the [huggingface space](https://huggingface.co/spaces/chiulori/bertopic-reviews) for this project.
