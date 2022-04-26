@@ -19,4 +19,4 @@ The code is uploaded to this repo and can be downloaded [here](https://github.co
 * [Topic Modeling: An Introduction](https://monkeylearn.com/blog/introduction-to-topic-modeling/)
 
 ## Video Recording
-A video presentation can be found [here]().
+A video presentation can be found [here](https://www.youtube.com/watch?v=HW2tcbqdOBM).
